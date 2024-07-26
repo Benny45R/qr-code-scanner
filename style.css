@@ -51,11 +51,13 @@ img {
   font-weight: 700;
   margin: 5px 5px 0px;
   padding: 5px;
-  letter-spacing: 1px;
+
+  font-size: 18px;
 }
 
 .content-small {
   font-weight: 400;
-  font-size: 14px;
-  margin: 0px 20px;
+  font-size: 16px;
+  margin: 0px 20px 20px;
 }
+
